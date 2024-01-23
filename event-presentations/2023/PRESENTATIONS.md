@@ -1,7 +1,7 @@
 ### List of Talks at DevFest/Cloud Community Days/Cloud NEXT India Events in 2023
 
 | Date (dd/mm/yyyy)| Event, City | Presenter(s) | Topic | Talk Description | Links |
-|---|---|---|---|---|---|
+|04/11/2023|DevFest, Jalandhar|Sumit Kumar - https://www.linkedin.com/in/sumit-kumar-ab2059132/ |Google Shared VPC| Centralized VPC managment using shared VPC (hub and spoke Model). Presented a demo on how to quickly deploy shared VPC using terraform  | https://docs.google.com/presentation/d/1K15U4Oqo2crt-jjeXg7egqcVPHTtpKh6/edit?usp=sharing&ouid=111658762325415243303&rtpof=true&sd=true |
 | 7/05/2023 | CCD, Kolkata | [Nirav Kothari](www.linkedin.com/in/iniravkothari) | Build your career in Data Engineering using Google Cloud | The talk briefed audience about how does entire development landscape look like and evolves when organization grows from small scale to large scale, What are various development roles contributing to building that. And followed by the responsibilities of the data engineer. The talk also talked about what kind of projects consulting organization handles in the data engineering space. | [Presentation](https://docs.google.com/presentation/d/1UG12YtfnMTscDuqcEi0jDiRgqfEolUBgz3lf7cKk6-Y/edit?usp=sharing)|
 | 15/05/2023 | CCD, Mysuru | [Jitendra Gupta](https://www.linkedin.com/in/jitu028/) | Seamless Data Migration to Google Cloud - Best Practices & Strategies | | [Presentation](https://docs.google.com/presentation/d/1VLblG-QoYjtCLrU7oQl-BJVQ8ccAZQlU5NHqUv2YNr0/edit?usp=sharing)|
 | 16/05/2023 | CCD, Bhopal | [Jitendra Gupta](https://www.linkedin.com/in/jitu028/) | Google Cloud Landing Zone – Design & Best Practices | | [Presentation](https://docs.google.com/presentation/d/19m42hQ1wIut1UJnSdmewrEq33-3IU2yg8jDNFvZ4GiQ/edit?usp=sharing)|
